@@ -1,0 +1,1 @@
+export {default} from './Image_Multiple_Choice_Question';
