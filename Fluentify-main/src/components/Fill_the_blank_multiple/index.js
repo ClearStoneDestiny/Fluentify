@@ -1,1 +1,0 @@
-export {default} from './Fill_the_blank_multiple';
