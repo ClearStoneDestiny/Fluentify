@@ -5,20 +5,25 @@ It has a main page with lessons arranged in the form of a roadmap, each lesson h
 While working on the application, I acquired basic skills in working with React Native, for creating mobile applications and further studying this library, screenshots of the application itself are attached below:
 
 1. Select correct card:
-![alt text](product_images/first_ques.jpg)
-![alt text](product_images/seven_quest.jpg)
+   
+  ![alt text](product_images/first_ques.jpg)
+  ![alt text](product_images/seven_quest.jpg)
 
 2. Translate sentence:
-![alt text](product_images/four_quest.jpg)
-![alt text](product_images/six_quest.jpg)
+   
+  ![alt text](product_images/four_quest.jpg)
+  ![alt text](product_images/six_quest.jpg)
 
 3. Substitute the correct word :
-![alt text](product_images/second_quest.jpg)
-![alt text](product_images/third_quest.jpg)
-![alt text](product_images/five_quest.jpg)
+   
+  ![alt text](product_images/second_quest.jpg)
+  ![alt text](product_images/third_quest.jpg)
+  ![alt text](product_images/five_quest.jpg)
 
 4. End of lesson:
-![alt text](product_images/all_correct.jpg)
+   
+  ![alt text](product_images/all_correct.jpg)
 
 5. Home screen:
-![alt text](product_images/home_screen.jpg)
+    
+  ![alt text](product_images/home_screen.jpg)
